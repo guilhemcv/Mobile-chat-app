@@ -1,0 +1,252 @@
+body {
+    font-family: 'Rubik', sans-serif;
+    margin: 0;
+    height: 900px;
+    background-color: #F8F8F8;
+}
+
+#forme {
+    
+    position: absolute;
+    z-index: 1;
+    height: 600px;
+    width: 400px;
+    border-radius: 0 0 200px 200px;
+    margin-left: -50px;
+    background: linear-gradient(to bottom, #D831FF, #943CF1)
+}
+
+#forme2 {
+    position: absolute;
+    z-index: 2;
+    height: 600px;
+    width: 400px;
+    border-radius: 200px 200px 0 0;
+    background-color: #FAF4FA;
+    margin-left: 80%;
+    margin-top: 20%;
+
+}
+
+#telephone {
+    position: absolute;
+    z-index: 3;
+    height: 600px;
+    width: 300px;
+    background-color: #F5F3F8;
+    margin-left: 300px;
+    margin-top: 150px;
+    border: 10px solid white;
+    border-radius: 30px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    
+}
+
+.forme3 {
+    position: relative;
+    z-index: 5;
+    height: 25px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border-radius: 0 0 20px 20px;
+} 
+
+.forme4 {
+    position: relative;
+    z-index: ;
+    top: -25px;
+    height: 70px;
+    border-radius: 19px 19px 0 0;
+    background: linear-gradient(to right, #D831FF, #943CF1)
+}
+
+.fleche {
+    
+    margin-left: 10px;
+    filter: invert(100%);
+}
+
+.avatar {
+    
+    border-radius: 20px;
+    
+}
+
+.headphone {
+    padding-top: 30px;
+    padding-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+    font-size: 11px;
+}
+
+
+.nom {
+    display: block;
+    margin-right: 3px;
+    line-height: 2px;
+}
+
+.point {
+    filter: invert(100%);
+}
+
+.chat p {
+    color: #9B33FF;
+    font-size: 11px;
+}
+
+.chat1 {
+    
+    margin-top: -15px;
+    width: 150px;
+    height: 30px;
+    padding: 10px;
+    background-color: #EFE5F5;
+    border-radius: 15px;
+    margin-left: 10px;
+    
+    
+}
+
+.chat2 {
+    
+    
+    width: 150px;
+    height: 30px;
+    padding: 10px;
+    background-color: #EFE5F5;
+    border-radius: 15px;
+    margin-left: 10px;
+    
+    
+}
+
+.dog {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 80px;
+    margin-right: 10px;
+}
+
+.dog img {
+    border-radius: 30%;
+}
+
+.chat4 {
+    width: 150px;
+    height: 30px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 15px;
+    margin-left: 115px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.chat3 p {
+    color: black;
+    font-size: 11px;
+}
+
+.chat5 {
+    width: 150px;
+    height: 15px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 115px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.chat7 {
+    color: #9B33FF;
+    font-size: 11px;
+}
+
+.chat6{
+    width: 150px;
+    height: 50px;
+    padding-top: 1px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-color: #EFE5F5;
+    border-radius: 15px;
+    margin-left: 10px;
+}
+
+.price1 {
+    color: white;
+    font-size: 11px;
+    font-size: 15px;
+}
+
+.price2 {
+    width: 150px;
+    height: 15px;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    vertical-align: center;
+    background: linear-gradient(to left, #D831FF, #943CF1)
+    
+}
+
+.price3 {
+    width: 150px;
+    height: 15px;
+    margin-top: -7px;
+    margin-left: 10px;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    vertical-align: center;
+    background: linear-gradient(to left, #D831FF, #943CF1)
+}
+
+.bouton {
+    display: flex;
+    height: 40px;
+    width: 250px;
+    background-color: white;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 20px;
+    border-radius: 20px 20px 20px 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.message {
+    color:lightgray;
+
+
+}
+
+#main {
+    display: flex;
+}
+
+#droite {
+    font-family: 'Rubik', sans-serif;
+    z-index: 6;
+    margin-left: 700px;
+    margin-top: 200px;
+    margin-right: 15%;
+}
+
+#droite h1 {
+    color: #432658;
+    font-size: 40px;
+}
+
+#droite p {
+    color: #B7B3B6;
+    font-size: 20px;
+}
