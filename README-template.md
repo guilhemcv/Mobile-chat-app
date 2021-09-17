@@ -1,4 +1,4 @@
-# Frontend Mentor - Chat app CSS illustration solution
+# Chat app CSS illustration
 
 This is a solution to the [Chat app CSS illustration challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/chat-app-css-illustration-O5auMkFqY). 
 
@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://guilhemcv.github.io/Mobile-chat-app/)
+- Solution URL: [Guilhem's Solution](https://guilhemcv.github.io/Mobile-chat-app/)
 
 ## My process
 
